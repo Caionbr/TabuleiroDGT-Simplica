@@ -14,7 +14,7 @@ Pensando nisso, o objetivo deste projeto é construir um tabuleiro que replique 
 
 ## Componentes
 
-*  Dois microprocessadores STM32F070F6P6
+* Dois microprocessadores STM32F070F6P6
 * Módulo Serial I2C para Display LCD
 * Cabo Conversor USB para Serial DB9 (RS232)
 * Módulo Conversor Serial RS232 para TTL
